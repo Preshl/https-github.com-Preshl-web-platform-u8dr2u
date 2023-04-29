@@ -1,0 +1,13 @@
+body{
+  background-color: brown;
+}
+h1{
+  color: aqua;
+}
+menu{
+  background-color: bisque;
+  color: aqua;
+  font-family: sans-serif;
+  padding: 1px;
+  border-style: solid;
+}
