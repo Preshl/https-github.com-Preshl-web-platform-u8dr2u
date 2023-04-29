@@ -6,7 +6,7 @@ h1{
 }
 menu{
   background-color: bisque;
-  color: aqua;
+  color: rgba(red, green, blue, alpha);
   font-family: sans-serif;
   padding: 1px;
   border-style: solid;
